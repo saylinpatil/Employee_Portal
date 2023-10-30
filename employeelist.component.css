@@ -2,14 +2,12 @@
     border-radius: 5px 5px 5px;
     padding: 8px 30px;
     margin: 0;
-   
     color: rgb(250, 250, 254);  
     background-color: #045d62; 
     border: 2px solid #33ffda; 
   }
   
   .custom-button-Add:hover {
-
     background-color: #00a4ac;
     color: rgb(3, 3, 26);
     border: solid 1px #b7f2f9;
@@ -42,7 +40,6 @@
     border: solid 1px #b7f2f9;
 }
 
-
   .custom-button-warning{
     border-radius: 5px 5px 5px;
     padding: 8px 20px;
@@ -54,7 +51,6 @@
   }
   
   .custom-button-warning:hover {
-
     background-color: #fdc693;
     color: rgb(3, 3, 26);
     border: solid 1px #b7f2f9;
@@ -71,7 +67,6 @@
   }
   
   .custom-button-danger:hover {
-
     background-color: #f56656;
     color: rgb(255, 255, 255);
     border: solid 1px #c9e8eb;
