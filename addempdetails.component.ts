@@ -87,7 +87,7 @@ export class AddempdetailsComponent implements OnInit {
     
     setTimeout( () => {
       this.showError = false;
-    }, 5000);
+    }, 2000);
     return msg;
   }
 
