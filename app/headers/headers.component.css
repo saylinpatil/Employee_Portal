@@ -1,0 +1,20 @@
+/* .centered-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(34, 198, 210);
+  }
+  
+  .centered-heading h1 {
+    font-size: 45px;
+    color: rgb(50, 46, 165);
+    text-align: center;
+    padding: 20px; 
+    border-radius: 10px; 
+  }
+   */
+  .bg-color {
+    background-color: #045d62;
+    color: #fff; /* Set the text color to white or another suitable color */
+}
