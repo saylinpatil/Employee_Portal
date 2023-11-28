@@ -7,7 +7,7 @@ input[type="datetime-local"] {
     text-align: center;
 }
 
-.custom-button {
+.custom-button { 
     border-radius: 25px 25px 25px;
     padding: 8px 60px;
     margin: 0;
