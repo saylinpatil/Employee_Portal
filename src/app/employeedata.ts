@@ -1,4 +1,4 @@
-import { empDetail } from '../app/home_emp/emp.module';
+import { empDetail } from '../app/home_emp/emp.model';
 
 export const employeedata: empDetail[] = [
     {firstName: 'Sayali',
