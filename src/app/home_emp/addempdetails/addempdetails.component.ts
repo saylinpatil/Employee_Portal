@@ -2,7 +2,7 @@ import { Component, Input, OnInit } from '@angular/core';
 import { BsModalRef } from 'ngx-bootstrap/modal';
 
 import { EmputilsService } from 'src/app/service/emputils.service';
-import { empDetail } from '../emp.module';
+import { empDetail } from '../emp.model';
 import { employeedata } from 'src/app/employeedata'
 
 @Component({
