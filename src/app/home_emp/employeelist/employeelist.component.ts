@@ -3,7 +3,7 @@ import { BsModalService, BsModalRef } from 'ngx-bootstrap/modal';
 
 import { EmputilsService } from 'src/app/service/emputils.service';
 import { AddempdetailsComponent } from '../addempdetails/addempdetails.component';
-import { empDetail } from '../emp.module';
+import { empDetail } from '../emp.model';
 import { employeedata } from 'src/app/employeedata'
 
 @Component({
